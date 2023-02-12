@@ -1,0 +1,2 @@
+# newGitProject
+just for practice
